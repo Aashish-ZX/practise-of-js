@@ -44,3 +44,4 @@ const data=[
 const obj=Object.fromEntries(data);
 console.log(obj);
 console.log(Object.is(obj.name, "Aashish"));
+conole.log("checking the new object");
